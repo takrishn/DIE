@@ -1,6 +1,6 @@
 # DIE
 
-We're going to count Die.
+We're going to count Die
 
 create env:
 
